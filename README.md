@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @WajidSain
-- 👀 I’m interested in Data Science and software development 
-- 🌱 I’m currently learning data Science 
+### Hey 👋
 
-<!---
-WajidSain/WajidSain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <img align=" centre" alt="Coding" width="1000" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<h1 align="center">I'm Wajid Sain</h1>
+<h3 align="center">Data Science & Data Analytics Trainee</h3>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WajidSain&show_icons=true&locale=en&layout=compact" alt="WajidSain" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WajidSain&show_icons=true&locale=en" alt="WajidSain" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WajidSain&" alt="WajidSain" /></p>
