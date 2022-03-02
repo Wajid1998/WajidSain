@@ -1,6 +1,6 @@
 ### Hey 👋
 
-  <img align=" centre" alt="Coding" width="1000" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+  <img align=" centre" alt="Coding" width="1000" src="https://drive.google.com/file/d/1c2iToIH9RH4nAn49YFT1ebNOKTMZzVtY/view?usp=sharing">
 <h1 align="center">I'm Wajid Sain</h1>
 <h3 align="center">Data Science & Data Analytics Trainee</h3>
 
